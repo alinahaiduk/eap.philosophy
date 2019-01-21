@@ -1685,7 +1685,7 @@ ul.bs-glyphicons-list {
 	padding:5em 0;
 }
 .w3_agile_team_grids{
-	margin:3em 0 0;
+	margin:0em 0 0;
 }
 .w3_agile_team_grid h3{
 	font-size:1.2em;
@@ -1699,7 +1699,7 @@ ul.bs-glyphicons-list {
 	margin-bottom: 1em;
 }
 .w3_agile_team_grid:nth-child(2),.w3_agile_team_grid:nth-child(4){
-	margin-top:5em;
+	margin-top:0em;
 }
 .w3_agile_team_grid ul li{
 	display:inline-block;
@@ -1716,7 +1716,7 @@ ul.bs-glyphicons-list {
 	position: absolute;
 	top: 0;
 	left: -75%;
-	z-index: 2;
+	z-index: 1;
 	display: block;
 	content: '';
 	width: 50%;
