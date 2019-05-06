@@ -2553,3 +2553,8 @@ a:hover .more{
     color:white;
     background-color:#2ebaef;
 }
+video{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
